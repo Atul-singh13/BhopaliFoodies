@@ -30,8 +30,11 @@ Features:
  Screenshots : 
  
  Home Page : (https://github.com/Atul-singh13/BhopaliFoodies/assets/148559734/be00918d-b4fa-4b69-947e-71e106d7961f)
+ 
  Contact Page : (https://github.com/Atul-singh13/BhopaliFoodies/assets/148559734/404ae612-5928-42da-a3d1-ada047f3abbe)
+ 
  About Us : (https://github.com/Atul-singh13/BhopaliFoodies/assets/148559734/eec37539-39da-4d0b-88fd-39016b49c794)
+ 
  Chat Bot page: (https://github.com/Atul-singh13/BhopaliFoodies/assets/148559734/15d7db91-65f5-4dbf-b235-965d5337d164)
  
 
