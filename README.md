@@ -66,7 +66,7 @@ Github Readme link: https://atul-singh13.github.io/BhopaliFoodies/
 
 Contributors:
 
-Atul Singh - Project Manager / Full Stack Developer
-Anant Sharma - UI/UX Designer / Frontend Developer
-Divyanka Raj  - Azure Services Mananger
-Varun Sharma - Quality Assurance Tester
+Atul Singh - Project Manager / Full Stack Developer (https://github.com/Atul-singh13)
+Anant Sharma - UI/UX Designer / Frontend Developer (https://github.com/Anantsharma25)
+Divyanka Raj  - Azure Services Mananger (https://github.com/divyankaraj20)
+Varun Sharma - Quality Assurance Tester (https://github.com/vanzic)
