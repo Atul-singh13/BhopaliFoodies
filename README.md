@@ -2,6 +2,8 @@ Project Idea : Online Food Ordering System Project
 
 Bhopali foodies indulge in the rich culinary heritage of Madhya Pradesh, savoring spicy kebabs, aromatic biryanis, and decadent sweets, celebrating flavors unique to their vibrant city.
 
+
+
 Features:
 
 ### Browse and Search Food Items
@@ -45,15 +47,21 @@ Azure technologies used for Project:
 3. Natural Language Processing (NLP)
 4. Virtual Machine
 
-purpose:
+
+
+Purpose:
 
 BhopaliFoodies is an ecommerce website project aimed at providing users with a seamless experience for purchasing Food online. This project is designed to showcase the functionalities of a typical ecommerce platform, allowing users to browse through a variety of Food.
+
 
 
 Project Links:https://yellow-mud-0d8a5aa00.5.azurestaticapps.net
 
 Project Demo Link:https://youtu.be/SZfmledOFHk?si=s82kwQ6mYqvDHxVq
-Github Repository Link:
+
+Github Repository Link:https://github.com/Atul-singh13/BhopaliFoodies.git
+
+Github Readme link: https://atul-singh13.github.io/BhopaliFoodies/
 
 
 Contributors:
