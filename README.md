@@ -58,9 +58,9 @@ BhopaliFoodies is an ecommerce website project aimed at providing users with a s
 
 
 
-Project Links : https://yellow-mud-0d8a5aa00.5.azurestaticapps.net
+Project Demo URL : https://yellow-mud-0d8a5aa00.5.azurestaticapps.net
 
-Project Demo Link : https://youtu.be/SZfmledOFHk?si=s82kwQ6mYqvDHxVq
+Project Demo Video URL : https://youtu.be/SZfmledOFHk?si=s82kwQ6mYqvDHxVq
 
 Github Repository Link : https://github.com/Atul-singh13/BhopaliFoodies.git
 
