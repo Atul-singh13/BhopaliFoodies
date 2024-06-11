@@ -8,6 +8,8 @@ An intuitive food ordering website aimed at enhancing convenience for users seek
 
 
 
+
+
 ## URL:
 **1.Project Demo URL:**
 https://yellow-mud-0d8a5aa00.5.azurestaticapps.net
@@ -20,6 +22,7 @@ https://github.com/Atul-singh13/BhopaliFoodies.git
 
 **4.Github Readme link:** 
 https://atul-singh13.github.io/BhopaliFoodies/
+
 
 
 
