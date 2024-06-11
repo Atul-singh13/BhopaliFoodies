@@ -114,5 +114,5 @@ In our food ordering website project, Azure services play a pivotal role in deli
 **Azure Technologies Used for Project:**
 1. Static Web App
 2. AI Bot Services
-3. Natural Language Processing (NLP)
+3. Language AI
 4. Virtual Machine
