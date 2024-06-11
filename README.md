@@ -6,13 +6,31 @@ Lifestyle
 **Problem Statement/Opportunity :**
 An intuitive food ordering website aimed at enhancing convenience for users seeking diverse culinary experiences. It must seamlessly connect customers with local eateries, fostering a seamless dining experience while promoting timely delivery and customer satisfaction.
 
+
+
+## URL:
+**1.Project Demo URL:**
+https://yellow-mud-0d8a5aa00.5.azurestaticapps.net
+
+**2.Project Demo Video URL:**
+ https://youtu.be/SZfmledOFHk?si=s82kwQ6mYqvDHxVq
+
+**3.GitHub Repository Link:** 
+https://github.com/Atul-singh13/BhopaliFoodies.git
+
+**4.Github Readme link:** 
+https://atul-singh13.github.io/BhopaliFoodies/
+
+
+
 **Description :**
 In our food ordering website project, Azure services play a pivotal role in delivering a robust and user-centric platform. Azure Static Web App enables seamless deployment and ensures optimal performance for our website, while Azure AI Bot enhances user engagement through personalized assistance and recommendations
 
 
 
 
-### Features:
+
+## Features:
 
 **1. Static Website:** A fast-loading and easily maintainable website.
 
@@ -29,28 +47,63 @@ In our food ordering website project, Azure services play a pivotal role in deli
 
 
 
- ### Screenshots: 
+## Members Contribution:
 
- **1.Azure Services:** 
-(https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/6cd89f97-d008-47fb-a253-f267e1393d92)
+**1.Atul Singh:** Project Manager / Full Stack Developer (https://github.com/Atul-singh13)
 
- **2.Home Page:**
-(https://github.com/Atul-singh13/BhopaliFoodies/assets/148559734/be00918d-b4fa-4b69-947e-71e106d7961f)
+**2.Anant Sharma:** UI/UX Designer / Frontend Developer (https://github.com/Anantsharma25)
+
+**3.Divyanka Raj**: Azure Services Manager (https://github.com/divyankaraj20)
+
+**4.Varun Sharma:** Quality Assurance Tester (https://github.com/vanzic)
+
+
+
+
+
+ ## Screenshots: 
+
+ ## 1.Azure Services:
  
- **3.Contact Page:** (https://github.com/Atul-singh13/BhopaliFoodies/assets/148559734/404ae612-5928-42da-a3d1-ada047f3abbe)
+  ![Screenshot 2024-06-11 100325](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/fee31355-79dc-4066-a3ea-bd3f68a8fafa)
+
+ ## 1.Static Web App:
+
+ ![static web app](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/4b64b63f-78a8-4b77-b3d4-d9d9c751bfc2)
+
  
- **4.About Us:** (https://github.com/Atul-singh13/BhopaliFoodies/assets/148559734/eec37539-39da-4d0b-88fd-39016b49c794)
+ ## 2.Home Page:
  
- **5.Chat Bot page:** (https://github.com/Atul-singh13/BhopaliFoodies/assets/148559734/15d7db91-65f5-4dbf-b235-965d5337d164)
+  ![HomePage](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/5b9789ab-ce04-47f9-be08-9d49da3b2ed0)
+ 
+ ## 3.Contact Page:
+ 
+  ![contact](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/ab3469e5-7b49-4bca-8c55-8ba18c9bf11a)
+
+ ## 4.About Us:
+ 
+  ![about](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/f56097d6-4a75-48ac-b1c0-7416c2645f9f)
+
+ ## 5.Chat Bot page:
+ 
+  ![chatbot](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/aa46f32d-0c50-4f5e-baa5-1941b3c43ddb)
+
+
  
 
- **Technologies Stack:**
+ ## Technologies Stack:
+ 
 1.HTML
+
 2.CSS
+
 3.JavaScript
+
+
 
  **Version Control:**
  Git, GitHub
+
 
 
 **Azure Technologies Used for Project:**
@@ -58,31 +111,3 @@ In our food ordering website project, Azure services play a pivotal role in deli
 2. AI Bot Services
 3. Natural Language Processing (NLP)
 4. Virtual Machine
-
-
-
-**Purpose:**
-
-Bhopal Foodies is an ecommerce website project aimed at providing users with a seamless experience for purchasing Food online. This project is designed to showcase the functionalities of a typical ecommerce platform, allowing users to browse through a variety of Food.
-
-
-### URL:
-**1.Project Demo URL:**
-https://yellow-mud-0d8a5aa00.5.azurestaticapps.net
-
-**2.Project Demo Video URL:**
- https://youtu.be/SZfmledOFHk?si=s82kwQ6mYqvDHxVq
-
-**3.GitHub Repository Link:** 
-https://github.com/Atul-singh13/BhopaliFoodies.git
-
-**4.Github Readme link:** 
-https://atul-singh13.github.io/BhopaliFoodies/
-
-
-### Contributors:
-
-**1.Atul Singh:** Project Manager / Full Stack Developer (https://github.com/Atul-singh13)
-**2.Anant Sharma:** UI/UX Designer / Frontend Developer (https://github.com/Anantsharma25)
-**3.Divyanka Raj**: Azure Services Manager (https://github.com/divyankaraj20)
-**4.Varun Sharma:** Quality Assurance Tester (https://github.com/vanzic)
