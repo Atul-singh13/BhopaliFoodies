@@ -4,6 +4,7 @@
 Lifestyle
 
 **Problem Statement/Opportunity :**
+
 An intuitive food ordering website aimed at enhancing convenience for users seeking diverse culinary experiences. It must seamlessly connect customers with local eateries, fostering a seamless dining experience while promoting timely delivery and customer satisfaction.
 
 
@@ -27,6 +28,7 @@ https://atul-singh13.github.io/BhopaliFoodies/
 
 
 **Description :**
+
 In our food ordering website project, Azure services play a pivotal role in delivering a robust and user-centric platform. Azure Static Web App enables seamless deployment and ensures optimal performance for our website, while Azure AI Bot enhances user engagement through personalized assistance and recommendations
 
 
