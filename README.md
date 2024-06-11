@@ -69,7 +69,7 @@ Github Repository Link : https://github.com/Atul-singh13/BhopaliFoodies.git
 Github Readme link : https://atul-singh13.github.io/BhopaliFoodies/
 
 
-Contributors:
+**Contributors:**
 
 Atul Singh - Project Manager / Full Stack Developer (https://github.com/Atul-singh13)
 Anant Sharma - UI/UX Designer / Frontend Developer (https://github.com/Anantsharma25)
