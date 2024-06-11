@@ -3,6 +3,9 @@
 **Industry :**
 Lifestyle
 
+**IDE :**
+Visual Studio Code
+
 **Problem Statement/Opportunity :**
 
 An intuitive food ordering website aimed at enhancing convenience for users seeking diverse culinary experiences. It must seamlessly connect customers with local eateries, fostering a seamless dining experience while promoting timely delivery and customer satisfaction.
@@ -112,7 +115,12 @@ In our food ordering website project, Azure services play a pivotal role in deli
 
 
 **Azure Technologies Used for Project:**
-1. Static Web App
-2. AI Bot Services
+
+1. Static Web App Services
+
+2. Virtual Network
+  
 3. Language AI
-4. Virtual Machine
+
+4. Azure Bot Service
+
