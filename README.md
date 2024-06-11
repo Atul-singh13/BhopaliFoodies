@@ -1,28 +1,32 @@
+# Online Food Ordering System Project
 
-### Project Idea: 
-Online Food Ordering System Project
+**Industry :**
+Lifestyle
+
+**Problem Statement/Opportunity :**
+An intuitive food ordering website aimed at enhancing convenience for users seeking diverse culinary experiences. It must seamlessly connect customers with local eateries, fostering a seamless dining experience while promoting timely delivery and customer satisfaction.
+
+**Description :**
+In our food ordering website project, Azure services play a pivotal role in delivering a robust and user-centric platform. Azure Static Web App enables seamless deployment and ensures optimal performance for our website, while Azure AI Bot enhances user engagement through personalized assistance and recommendations
+
+
 
 
 ### Features:
-**1. Browse and Search Food Items:**
-•	-Extensive menu with categories and detailed item descriptions
-•	-Search functionality to quickly find specific food items
-•	Filter options to sort food by popularity, price, and ratings
 
-**2.Dynamic Content Rendering:**
-•	Dynamic content rendering based on user interactions and real-time data
-•	Personalized user experience with recommended items and order history
-•	Live updates for order status and availability of menu items
+**1. Static Website:** A fast-loading and easily maintainable website.
 
-**3.Order Placement and Tracking:**
-•	Seamless order placement process with confirmation and order summary
-•	Integration with secure payment gateways like Stripe for transactions
-•	Real-time order tracking and status updates
+**2. Microsoft Chat Bot Integration:** Real-time customer support and engagement through the Microsoft Chat Bot.
 
-**4. Responsive Design:**
-•	Optimized layout and functionality for both mobile and desktop devices
-•	Adaptive design to provide an excellent user experience on various screen sizes
-•	Fast loading times and smooth navigation
+**3. Azure Services Utilization:** Leveraging Azure services for enhanced website functionalities.
+
+**4. Product Catalog:** A comprehensive display of shoe products categorized for easy navigation.
+
+**5. Responsive Design:** Optimized for various devices to provide an optimal viewing experience.
+
+**6. Azure Al Integration:** Personalized product recommendations using Azure Al services based on user preferences.
+
+
 
 
  ### Screenshots: 
