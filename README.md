@@ -7,7 +7,7 @@ This project is made for educational purpose and it is mainly prepared for FRT p
                                  INDUSTRY :- Lifestyle
 # Project Title :-
 
-BhopaliFoodies: Your Trusted Portal for Convenient Food Ordering and Culinary Insights                                
+BhopaliFoodie: Your Trusted Portal for Convenient Food Ordering and Culinary Insights                                
       
 # Problem Statement:-
 
