@@ -28,7 +28,9 @@ Features:
 
 
  Screenshots : 
- 
+
+ Azure Services : (https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/6cd89f97-d008-47fb-a253-f267e1393d92)
+
  Home Page : (https://github.com/Atul-singh13/BhopaliFoodies/assets/148559734/be00918d-b4fa-4b69-947e-71e106d7961f)
  
  Contact Page : (https://github.com/Atul-singh13/BhopaliFoodies/assets/148559734/404ae612-5928-42da-a3d1-ada047f3abbe)
