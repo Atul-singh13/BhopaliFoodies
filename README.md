@@ -98,11 +98,11 @@ In our food ordering website project, Azure services play a pivotal role in deli
 
  ## Technologies Stack:
  
-1.HTML
+**1.** HTML
 
-2.CSS
+**2.** CSS
 
-3.JavaScript
+**3.** JavaScript
 
 
 
