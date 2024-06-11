@@ -27,7 +27,7 @@ Features:
 - Fast loading times and smooth navigation
 
 
- Screenshots : 
+ ### Screenshots : 
 
  Azure Services : (https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/6cd89f97-d008-47fb-a253-f267e1393d92)
 
