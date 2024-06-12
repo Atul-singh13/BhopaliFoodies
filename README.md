@@ -101,7 +101,10 @@ This page is kept for view purpose only, no business logic or dynamic activities
 <br/>
 
 # 4. ChatBot
-![chatbot](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/636ef188-84f6-443c-89ba-98ff6724831a)
+![ChatBot](https://github.com/Atul-singh13/BhopaliFoodies/assets/148559734/03d0a7e2-af41-42ca-9dc9-fb8802b3d43f)
+
+
+
 
 
 
