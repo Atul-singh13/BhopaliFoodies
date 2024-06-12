@@ -54,7 +54,8 @@ Static Web App is a service provided by Microsoft Azure. It is designed to set u
 
 # 2. Azure Virtual Machine :-
 Virtual Machines (VMs) are one of the core services provided by Microsoft Azure. They are used for hosting our website, development and testing, data management, and security. The VMs handle user data, support development, process orders, and monitor activities on the platform.
-![virual machine](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/9f252a88-578f-4bc7-81d0-74eb18fbcfc5)
+![virual network](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/9dd255cc-b499-41dc-95a8-22643e663b1d)
+
 
 
 
@@ -80,10 +81,12 @@ Azure Food Order Bot is a cloud service provided by Microsoft Azure that enables
 ![contact](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/ab3469e5-7b49-4bca-8c55-8ba18c9bf11a)
 
 # 4. Static Web App
-![static web app](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/c3200454-23ac-402c-9ed8-c89d75a426f7)
+![static web app](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/0b04d1d2-4ecc-4b24-952c-7d538d7f4298)
 
-# Virtual Machine
-![virtual machine](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/ac27e511-9609-4fc2-8df3-d49f94198f9f)
+# 5. Virtual Network
+![virual network](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/9804cd16-bfbe-4112-b427-568eb8a2514c)
+
+
 
 
 
