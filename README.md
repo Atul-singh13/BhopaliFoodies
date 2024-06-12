@@ -46,17 +46,17 @@ Contact Us: Easily reach out to the Gourmet Haven team for any inquiries or supp
 
 # The Core Azure Services Used:- 
 
-# Azure Static Web App:-
+# 1. Azure Static Web App:-
 Static Web App is a service provided by Microsoft Azure. It is designed to set up, configure, build, deploy, and host modern web applications. With this service, users can easily navigate the site, explore restaurant menus, place orders, and contact support.
 ![static web app](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/56988cfb-f29f-4814-8f13-03d3fb827a9a)
 
 
-# Azure Virtual Machine :-
+# 2. Azure Virtual Machine :-
 Virtual Machines (VMs) are one of the core services provided by Microsoft Azure. They are used for hosting our website, development and testing, data management, and security. The VMs handle user data, support development, process orders, and monitor activities on the platform.
 ![virtual machine](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/d011190f-5919-4aa7-a530-fe84ac9cc999)
 
 
-# Azure Food Order Chat Bot :-
+# 3. Azure Food Order Chat Bot :-
 Azure Food Order Bot is a cloud service provided by Microsoft Azure that enables the development of AI-powered food ordering conversational agents. It facilitates user interaction, menu exploration, order placement, and delivery tracking. It enhances the dining experience and helps users get accurate and timely information about their food orders.
 
 
@@ -68,16 +68,16 @@ Azure Food Order Bot is a cloud service provided by Microsoft Azure that enables
    
 #                              SCREENSHOTS
 
-# Home Page
+# 1. Home Page
 ![HomePage](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/5b9789ab-ce04-47f9-be08-9d49da3b2ed0)
 
-# About Page
+# 2. About Page
 ![about](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/f56097d6-4a75-48ac-b1c0-7416c2645f9f)
 
-# Contact Us
+# 3. Contact Us
 ![contact](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/ab3469e5-7b49-4bca-8c55-8ba18c9bf11a)
 
-# Static Web App
+# 4. Static Web App
 ![static web app](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/c3200454-23ac-402c-9ed8-c89d75a426f7)
 
 # Virtual Machine
