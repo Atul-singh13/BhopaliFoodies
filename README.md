@@ -86,6 +86,11 @@ Azure Food Order Bot is a cloud service provided by Microsoft Azure that enables
 # 5. Virtual Network
 ![virual network](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/9804cd16-bfbe-4112-b427-568eb8a2514c)
 
+# 6. Azure Bot Service
+![Azure Bot Service](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/ae8d3215-e8e9-40fc-b244-54c89363ad9f)
+
+
+
 
 
 
