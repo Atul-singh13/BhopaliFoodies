@@ -48,6 +48,12 @@ Contact Us: Easily reach out to the Gourmet Haven team for any inquiries or supp
             2. CSS 
             3.JAVASCRIPT
 
+# Azure Services Used :-
+
+![azure services](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/4a017a94-fca4-4358-9fa1-f9b0003b132d)
+
+            
+
 # The Core Azure Services Used:- 
 
 # 1. Azure Static Web App:-
