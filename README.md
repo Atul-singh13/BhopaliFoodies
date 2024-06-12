@@ -69,7 +69,7 @@ Virtual Machines (VMs) are one of the core services provided by Microsoft Azure.
 
 
 # Azure AI Service
-**Azure Bot Service:-**
+**1. Azure Bot Service:-** <br/>
 Azure Food Order Bot is a cloud service provided by Microsoft Azure that enables the development of AI-powered food ordering conversational agents. It facilitates user interaction, menu exploration, order placement, and delivery tracking. It enhances the dining experience and helps users get accurate and timely information about their food orders.
 ![Azure Bot Service](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/102bb83e-119e-47a5-8f72-730c7536c196)
 
@@ -84,7 +84,7 @@ Azure Food Order Bot is a cloud service provided by Microsoft Azure that enables
 
 
    
-#                              Screenshots
+#                              Project Screenshots
 
 # 1. Home Page
 ![HomePage](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/5b9789ab-ce04-47f9-be08-9d49da3b2ed0)
@@ -105,29 +105,33 @@ Azure Food Order Bot is a cloud service provided by Microsoft Azure that enables
 
 
 # Connectivity:- 
-**1. BhopaliFoodies Website:** This represents the main website of BhopaliFoodies where users interact and access various services.
+**1. BhopaliFoodies Website:** <br/> 
+This represents the main website of BhopaliFoodies where users interact and access various services.
 
-**2. Azure Static Web App:** The static web app service hosts the frontend of the website, serving static content like HTML, CSS, and JavaScript files to users.
+**2. Azure Static Web App:** <br/>
+The static web app service hosts the frontend of the website, serving static content like HTML, CSS, and JavaScript files to users.
 
-**3. Azure Virtual Machine:** The virtual machine service hosts the backend of the website, including any server-side logic or applications required for dynamic functionality.
+**3. Azure Virtual Machine:** <br/>
+The virtual machine service hosts the backend of the website, including any server-side logic or applications required for dynamic functionality.
 
-**4. Communication:** The website communicates with both the Azure Food Order Bot and the backend application hosted on the virtual machine. The Azure Food Order Bot handles user interactions, providing menu exploration, order placement, and delivery tracking. The backend application handles other backend functionalities, such as managing user data, processing orders, and integrating with other services.
+**4. Communication:** <br/>
+The website communicates with both the Azure Food Order Bot and the backend application hosted on the virtual machine. The Azure Food Order Bot handles user interactions, providing menu exploration, order placement, and delivery tracking. The backend application handles other backend functionalities, such as managing user data, processing orders, and integrating with other services.
 
 
 
 # Team Member Github Links :-
 
 **1. ATUL SINGH**
-         (Atul-singh13) : https://github.com/Atul-singh13
+        (Atul-singh13) : https://github.com/Atul-singh13
 
 **2. ANANT SHARMA** 
         (Anantsharma25) : https://github.com/Anantsharma25
 
 **3. DIVYANKA RAJ**
-       (divyankaraj20) : https://github.com/divyankaraj20
+        (divyankaraj20) : https://github.com/divyankaraj20
 
 **5. VARUN SHARMA** 
-      (vanzic)  : https://github.com/vanzic
+        (vanzic)  : https://github.com/vanzic
 
 
 # Disclaimer: 
