@@ -48,12 +48,14 @@ Contact Us: Easily reach out to the Gourmet Haven team for any inquiries or supp
 
 # 1. Azure Static Web App:-
 Static Web App is a service provided by Microsoft Azure. It is designed to set up, configure, build, deploy, and host modern web applications. With this service, users can easily navigate the site, explore restaurant menus, place orders, and contact support.
-![static web app](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/56988cfb-f29f-4814-8f13-03d3fb827a9a)
+![static web app](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/0f4622cd-c053-4ece-8142-ea0c970b0e16)
+
 
 
 # 2. Azure Virtual Machine :-
 Virtual Machines (VMs) are one of the core services provided by Microsoft Azure. They are used for hosting our website, development and testing, data management, and security. The VMs handle user data, support development, process orders, and monitor activities on the platform.
-![virtual machine](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/d011190f-5919-4aa7-a530-fe84ac9cc999)
+![virual machine](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/9f252a88-578f-4bc7-81d0-74eb18fbcfc5)
+
 
 
 # 3. Azure Food Order Chat Bot :-
