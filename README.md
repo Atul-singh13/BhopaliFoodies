@@ -136,7 +136,7 @@ The website communicates with both the Azure Food Order Bot and the backend appl
 
 # Disclaimer: 
 This project is for educational purposes only and should not be used for actual food orders or deliveries. 
-Please use established and licensed services for any food ordering needs.
+Please use established and licensed services for any food ordering needs.This website is static and it wont't be able to accept any kind of inputs due to absence of datatbase. 
 
 # Contact:
 **Email:-** atulsingh12axyz@gmail.com
