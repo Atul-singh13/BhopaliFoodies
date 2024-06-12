@@ -8,7 +8,7 @@ This project is made for educational purpose and it is mainly prepared for FRT p
 
 **IDE :-** VS-Code
 
-**Note :-** Bot is deployed on Chatbot page
+**NOTE :-** Bot is deployed on Chatbot page
 
 # Project Title :-
 
