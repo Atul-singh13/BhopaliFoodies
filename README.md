@@ -56,20 +56,20 @@ Contact Us: Easily reach out to the Gourmet Haven team for any inquiries or supp
 
 # The Core Azure Services Used:- 
 
-# 1. Azure Static Web App:-
+## 1. Azure Static Web App:-
 Static Web App is a service provided by Microsoft Azure. It is designed to set up, configure, build, deploy, and host modern web applications. With this service, users can easily navigate the site, explore restaurant menus, place orders, and contact support.
 ![static web app](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/0f4622cd-c053-4ece-8142-ea0c970b0e16)
 
 
 
-# 2. Azure Virtual Network :-
+## 2. Azure Virtual Network :-
 Virtual Machines (VMs) are one of the core services provided by Microsoft Azure. They are used for hosting our website, development and testing, data management, and security. The VMs handle user data, support development, process orders, and monitor activities on the platform.
 ![virual network](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/9dd255cc-b499-41dc-95a8-22643e663b1d)
 
 
 
 # Azure AI Service
-**1. Azure Bot Service:-** <br/>
+## 1. Azure Bot Service:- <br/>
 Azure Food Order Bot is a cloud service provided by Microsoft Azure that enables the development of AI-powered food ordering conversational agents. It facilitates user interaction, menu exploration, order placement, and delivery tracking. It enhances the dining experience and helps users get accurate and timely information about their food orders.
 ![Azure Bot Service](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/102bb83e-119e-47a5-8f72-730c7536c196)
 
