@@ -2,13 +2,14 @@
 
 This project is made for educational purpose and it is mainly prepared for FRT project.
 
-                                 **PROJECT NAME:-** BhopaliFoodies
+**PROJECT NAME :-** BhopaliFoodies
    
-                                 **INDUSTRY :-** Lifestyle
+**INDUSTRY :-** Lifestyle
 
-                                 **IDE :-** VS-Code
+**IDE :-** VS-Code
 
-                                 **Note :-** Bot is deployed on Chatbot page
+**Note :-** Bot is deployed on Chatbot page
+
 # Project Title :-
 
 BhopaliFoodies: Your Trusted Portal for Convenient Food Ordering and Culinary Insights                                
