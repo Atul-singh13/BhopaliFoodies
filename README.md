@@ -2,9 +2,13 @@
 
 This project is made for educational purpose and it is mainly prepared for FRT project.
 
-                                 PROJECT NAME:- BhopaliFoodies
+                                 **PROJECT NAME:-** BhopaliFoodies
    
-                                 INDUSTRY :- Lifestyle
+                                 **INDUSTRY :-** Lifestyle
+
+                                 **IDE :-** VS-Code
+
+                                 **Note :-** Bot is deployed on Chatbot page
 # Project Title :-
 
 BhopaliFoodies: Your Trusted Portal for Convenient Food Ordering and Culinary Insights                                
@@ -26,7 +30,7 @@ Culinary Resources: Access a library of informative resources on various cuisine
 Contact Us: Easily reach out to the Gourmet Haven team for any inquiries or support you may require.
 
 
-# Url link:-
+# Url Link:-
 
 **1. Project Demo Url :** https://atul-singh13.github.io/BhopaliFoodies
 
@@ -39,7 +43,6 @@ Contact Us: Easily reach out to the Gourmet Haven team for any inquiries or supp
 
 # Technologies:- 
 
-      Frontend:
             1. HTML 
             2. CSS 
             3.JAVASCRIPT
@@ -58,8 +61,8 @@ Virtual Machines (VMs) are one of the core services provided by Microsoft Azure.
 
 
 
-
-# 3. Azure Food Order Chat Bot :-
+# Azure AI Service
+**Azure Bot Service:-**
 Azure Food Order Bot is a cloud service provided by Microsoft Azure that enables the development of AI-powered food ordering conversational agents. It facilitates user interaction, menu exploration, order placement, and delivery tracking. It enhances the dining experience and helps users get accurate and timely information about their food orders.
 ![Azure Bot Service](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/102bb83e-119e-47a5-8f72-730c7536c196)
 
@@ -71,7 +74,7 @@ Azure Food Order Bot is a cloud service provided by Microsoft Azure that enables
 **3. DIVYANKA RAJ -** PROJECT TESTING
 **4. ANANT SHARMA -** HTML,CSS AND JAVASCRIPT
    
-#                              SCREENSHOTS
+#                              Screenshots
 
 # 1. Home Page
 ![HomePage](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/5b9789ab-ce04-47f9-be08-9d49da3b2ed0)
@@ -84,15 +87,6 @@ Azure Food Order Bot is a cloud service provided by Microsoft Azure that enables
 
 # 4. ChatBot
 ![chatbot](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/636ef188-84f6-443c-89ba-98ff6724831a)
-
-# 5. Static Web App
-![static web app](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/0b04d1d2-4ecc-4b24-952c-7d538d7f4298)
-
-# 6. Virtual Network
-![virual network](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/9804cd16-bfbe-4112-b427-568eb8a2514c)
-
-# 7. Azure Bot Service
-![Azure Bot Service](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/ae8d3215-e8e9-40fc-b244-54c89363ad9f)
 
 
 
@@ -111,7 +105,7 @@ Azure Food Order Bot is a cloud service provided by Microsoft Azure that enables
 
 
 
-# Team members :-
+# Team Member Github Links :-
 
 **1. ATUL SINGH**
          (Atul-singh13) : https://github.com/Atul-singh13
