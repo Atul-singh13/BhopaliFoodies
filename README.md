@@ -61,6 +61,8 @@ Virtual Machines (VMs) are one of the core services provided by Microsoft Azure.
 
 # 3. Azure Food Order Chat Bot :-
 Azure Food Order Bot is a cloud service provided by Microsoft Azure that enables the development of AI-powered food ordering conversational agents. It facilitates user interaction, menu exploration, order placement, and delivery tracking. It enhances the dining experience and helps users get accurate and timely information about their food orders.
+![Azure Bot Service](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/102bb83e-119e-47a5-8f72-730c7536c196)
+
 
 
 # Team Member Contribution:-
