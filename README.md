@@ -28,13 +28,13 @@ Contact Us: Easily reach out to the Gourmet Haven team for any inquiries or supp
 
 # Url link:-
 
-1. Project Demo Url : https://atul-singh13.github.io/BhopaliFoodies
+**1. Project Demo Url :** https://atul-singh13.github.io/BhopaliFoodies
 
-2. Project Demo Video Url : https://youtu.be/SZfmledOFHk?si=s82kwQ6mYqvDHxVq
+**2. Project Demo Video Url :** https://youtu.be/SZfmledOFHk?si=s82kwQ6mYqvDHxVq
 
-3. Github Repository Link : https://github.com/Atul-singh13/BhopaliFoodies.git
+**3. Github Repository Link :** https://github.com/Atul-singh13/BhopaliFoodies.git
 
-4. Url of Project through Azure : https://yellow-mud-0d8a5aa00.5.azurestaticapps.net
+**4. Url of Project through Azure :** https://yellow-mud-0d8a5aa00.5.azurestaticapps.net
 
 
 # Technologies:- 
@@ -126,4 +126,4 @@ This project is for educational purposes only and should not be used for actual 
 Please use established and licensed services for any food ordering needs.
 
 # Contact:
-Email:- atulsingh12axyz@gmail.com
+**Email:-** atulsingh12axyz@gmail.com
