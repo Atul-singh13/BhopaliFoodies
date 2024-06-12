@@ -76,10 +76,13 @@ Azure Food Order Bot is a cloud service provided by Microsoft Azure that enables
 
 
 # Team Member Contribution:-
-**1. ATUL SINGH -** AZURE SERVICES AND LEADING
-**2. VARUN SHARMA -** COORDINATION, HTML, CSS AND JAVASCRIPT
-**3. DIVYANKA RAJ -** PROJECT TESTING
-**4. ANANT SHARMA -** HTML,CSS AND JAVASCRIPT
+
+**1. ATUL SINGH -** AZURE SERVICES AND LEADING  <br />
+**2. VARUN SHARMA -** COORDINATION, HTML, CSS AND JAVASCRIPT <br />
+**3. DIVYANKA RAJ -** PROJECT TESTING <br />
+**4. ANANT SHARMA -** HTML,CSS AND JAVASCRIPT <br />
+
+
    
 #                              Screenshots
 
