@@ -52,7 +52,7 @@ Static Web App is a service provided by Microsoft Azure. It is designed to set u
 
 
 
-# 2. Azure Virtual Machine :-
+# 2. Azure Virtual Network :-
 Virtual Machines (VMs) are one of the core services provided by Microsoft Azure. They are used for hosting our website, development and testing, data management, and security. The VMs handle user data, support development, process orders, and monitor activities on the platform.
 ![virual network](https://github.com/Atul-singh13/BhopaliFoodies/assets/148680832/9dd255cc-b499-41dc-95a8-22643e663b1d)
 
